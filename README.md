@@ -10,7 +10,7 @@
   
 *При сохранении приемлемой точности работы модели (падение accuracy не более чем на 7%)*
 
-'''
+<pre><code>```text
 .
 ├── alphanas/           # Реализация NAS c использованием AlphaNAS
 ├── bananas/            # Реализация NAS c использованием BANANAS
@@ -21,4 +21,4 @@
 ├── performance/        # Презентация
 ├── random_search/      # Базовая реализация NAS через Random Search
 └── README.md           # Описание проекта
-'''
+```</code></pre>
