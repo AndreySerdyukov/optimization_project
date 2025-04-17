@@ -6,4 +6,5 @@
 - Можно импортировать напрямую через Hugging Face Datasets:
 
 from datasets import load_dataset
+
 dataset = load_dataset("imdb")
